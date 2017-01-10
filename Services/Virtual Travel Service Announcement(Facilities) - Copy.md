@@ -38,7 +38,7 @@ and only you have to do is permission that I scan your facility and tour program
 I will be in the US until the 13th and then return to Korea.
 Hope to hear from you soon and take to scan
  
-We have some time in 11~13 JAN. so we want to capture your facility then. There¡¯s not much asking - just open all the door where i would go. I planned a path, and only you have to do is permission that I scan your tour place. I will be in the US until the 13th and then return to Korea.
+We have some time in 11~13 JAN. so we want to capture your facility then. ThereÂ¡Â¯s not much asking - just open all the door where i would go. I planned a path, and only you have to do is permission that I scan your tour place. I will be in the US until the 13th and then return to Korea.
 Hope to hear from you soon and hope that things would happen.
 
 Please note that our main concern is not the money, but actual use case in USA, so we are proposing nominal value of $10. The deal does not have to be done this week; you can first let us do the scanning job and do the rest later.
@@ -49,14 +49,13 @@ Just call me for inquiry, but please hurry!
 
 
 Portfolio-
-<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(1).PNG"/>
-<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(2).PNG"/>
-<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(3).PNG"/>
-<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(4).PNG"/>
-<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(5).PNG"/>
-<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(6).PNG"/>
-<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(7).PNG"/>
-<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(8).PNG"/>
-<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(9).PNG"/>
-<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(10).PNG"/>
-
+<img src="https://github.com/gqphd/illio_wikiwiki/blob/master/WebResources/PSA_image(factory)/slide%20(1).PNG?raw=true"/>
+<img src="https://github.com/gqphd/illio_wikiwiki/blob/master/WebResources/PSA_image(factory)/slide%20(2).PNG?raw=true"/>
+<img src="https://github.com/gqphd/illio_wikiwiki/blob/master/WebResources/PSA_image(factory)/slide%20(3).PNG?raw=true"/>
+<img src="https://github.com/gqphd/illio_wikiwiki/blob/master/WebResources/PSA_image(factory)/slide%20(4).PNG?raw=true"/>
+<img src="https://github.com/gqphd/illio_wikiwiki/blob/master/WebResources/PSA_image(factory)/slide%20(5).PNG?raw=true"/>
+<img src="https://github.com/gqphd/illio_wikiwiki/blob/master/WebResources/PSA_image(factory)/slide%20(6).PNG?raw=true"/>
+<img src="https://github.com/gqphd/illio_wikiwiki/blob/master/WebResources/PSA_image(factory)/slide%20(7).PNG?raw=true"/>
+<img src="https://github.com/gqphd/illio_wikiwiki/blob/master/WebResources/PSA_image(factory)/slide%20(8).PNG?raw=true"/>
+<img src="https://github.com/gqphd/illio_wikiwiki/blob/master/WebResources/PSA_image(factory)/slide%20(9).PNG?raw=true"/>
+<img src="https://github.com/gqphd/illio_wikiwiki/blob/master/WebResources/PSA_image(factory)/slide%20(10).PNG?raw=true"/>
