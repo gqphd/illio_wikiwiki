@@ -33,6 +33,14 @@ Hope to hear from you soon and take to scan
 My phone number here in USA is +16504318958 (Mr Brad)
 Just call me!
 
-<Portfolio>
+Portfolio-
 <img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(1).PNG"/>
 <img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(2).PNG"/>
+<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(3).PNG"/>
+<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(4).PNG"/>
+<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(5).PNG"/>
+<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(6).PNG"/>
+<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(7).PNG"/>
+<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(8).PNG"/>
+<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(9).PNG"/>
+<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(10).PNG"/>
