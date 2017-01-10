@@ -9,8 +9,11 @@ Controls
 - Drag to rotate your head,
 - Scroll to zoom in or out.
 
+
 Imagine this kind of virtual tradeshow could be hung in frontpage of yours!
-Your clients would understand more easily how good is your resort is. What do you think?
+Your clients would understand more easily how good is your resort is.
+What do you think?
+
 
 Why makes us BETTER than google street view is
  - We can do both indoor and outdoor,
@@ -18,9 +21,13 @@ Why makes us BETTER than google street view is
    (each 360 photo is taken at every feet or half a feet.)
  - It will help you look more natural.
 
+
 We have some free time in 11~13 JAN,
+
 and we want to use our time in more meaningful way.
+
 We want to capture your hotel then!
+
 
 Please note that our main concern is not the money, but actual use case in USA
 So we are proposing nominal value of <b>$10</b>.
@@ -32,8 +39,10 @@ and only you have to do is permission that I scan your resort.
 I will be in the US until the 13th and then return to Korea.
 Hope to hear from you soon and take to scan
 
+
 My phone number here in USA is +16504318958 (Mr Brad)
-Just call me!
+Just call me for inquiry, but please hurry!
+
 
 Portfolio-
 <img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/PSA_image(factory)/slide%20(1).PNG"/>
