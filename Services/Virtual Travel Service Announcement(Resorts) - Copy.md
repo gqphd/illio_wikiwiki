@@ -8,6 +8,8 @@ Controls
 - Q,E to rotate your head left and right,
 - Drag to rotate your head,
 - Scroll to zoom in or out.
+<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/refimg/preview%20(1).png"/>
+<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/refimg/preview%20(2).png"/>
 
 
 Imagine this kind of virtual tradeshow could be hung in frontpage of yours!
@@ -22,12 +24,8 @@ Why makes us BETTER than google street view is
  - It will help you look more natural.
 
 
-We have some free time in 11~13 JAN,
-
-and we want to use our time in more meaningful way.
-
+We have some free time in 11~13 JAN, and we want to use our time in more meaningful way.
 We want to capture your hotel then!
-
 
 Please note that our main concern is not the money, but actual use case in USA
 So we are proposing nominal value of <b>$10</b>.
