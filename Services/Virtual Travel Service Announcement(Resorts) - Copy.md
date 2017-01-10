@@ -1,5 +1,7 @@
 What I do is virtual tour, something like this.
+
 Demo : <a href="http://bit.ly/CES2017FnToVR_teaser_v1">http://bit.ly/CES2017FnToVR_teaser_v1</a>
+
 Usage : For demo, open with Chrome or Firefox or Safari on PC/Mac.
 Controls
 - WASD or Arrow to move,
