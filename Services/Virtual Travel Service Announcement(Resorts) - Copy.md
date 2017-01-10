@@ -11,7 +11,6 @@ Controls
 
 
 <img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/refimg/preview%20(1).png"/>
-<img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/refimg/preview%20(2).png"/>
 
 
 Imagine this kind of virtual tradeshow could be hung in frontpage of yours!
