@@ -8,6 +8,8 @@ Controls
 - Q,E to rotate your head left and right,
 - Drag to rotate your head,
 - Scroll to zoom in or out.
+
+
 <img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/refimg/preview%20(1).png"/>
 <img src="https://raw.githubusercontent.com/gqphd/illio_wikiwiki/master/WebResources/refimg/preview%20(2).png"/>
 
